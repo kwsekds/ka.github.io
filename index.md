@@ -1,4 +1,3 @@
-# ka.github.io
 # 生物信息学实践（笔记）
 
 >### 学习和参考资料
@@ -21,19 +20,19 @@
   在线视频
   
  >### **学习内容和方法**
-<img width="100" alt="屏幕截图 2023-10-06 181654" src="https://github.com/kwsekds/ka.github.io/assets/146935401/907c8fe8-f185-4652-92ba-92afcab0dc56">
+<img width="100" alt="屏幕截图 2023-10-06 181654" src="https://githubfast.com/kwsekds/ka.github.io/assets/146935401/907c8fe8-f185-4652-92ba-92afcab0dc56">
 
  
  
  >### **评分机制**
-<img width="250" alt="屏幕截图 2023-10-06 181900" src="https://github.com/kwsekds/ka.github.io/assets/146935401/cd89bf7a-ae6c-41b3-8a92-ccf99324e5fc">
+<img width="250" alt="屏幕截图 2023-10-06 181900" src="https://githubfast.com/kwsekds/ka.github.io/assets/146935401/cd89bf7a-ae6c-41b3-8a92-ccf99324e5fc">
 
 
 
 
  >### **contact**
  
- <img width="250" alt="屏幕截图 2023-10-06 182042" src="https://github.com/kwsekds/ka.github.io/assets/146935401/4adf9aea-29e8-45c6-a8dc-643e932fe9f3">
+ <img width="250" alt="屏幕截图 2023-10-06 182042" src="https://githubfast.com/kwsekds/ka.github.io/assets/146935401/4adf9aea-29e8-45c6-a8dc-643e932fe9f3">
 
  
  >### **steps of Bioinformatics**
@@ -43,7 +42,7 @@
  >. Sequences
  >#### **2. model**
  >##### 数学或概率模型
-<img width="250" alt="屏幕截图 2023-10-06 183820" src="https://github.com/kwsekds/ka.github.io/assets/146935401/80cb5146-e80f-41f2-a094-9c1ad52373e7">
+<img width="250" alt="屏幕截图 2023-10-06 183820" src="https://githubfast.com/kwsekds/ka.github.io/assets/146935401/80cb5146-e80f-41f2-a094-9c1ad52373e7">
 
  
  >模型的关键：**输入 输出**
@@ -53,7 +52,7 @@
  >    logistics regression模型： 输入x是连续值，输出y为是or否（0 or 1）
  >    
  >**. tree model**
- >  <img width="250" alt="屏幕截图 2023-10-06 185015" src="https://github.com/kwsekds/ka.github.io/assets/146935401/52ff4390-7d8a-454b-b81a-53ec50ac7b5e">
+ >  <img width="250" alt="屏幕截图 2023-10-06 185015" src="https://githubfast.com/kwsekds/ka.github.io/assets/146935401/52ff4390-7d8a-454b-b81a-53ec50ac7b5e">
 
  
  >  生物学中常用模型，多个x，指定到多个y，精确度由x个数决定
@@ -67,14 +66,14 @@
  >#### **3.  Algorithm**
  >#####  Computational Algorithm
  >**算法**不涉及太多数学模型，如编写的程序
-<img width="250" alt="屏幕截图 2023-10-06 190432" src="https://github.com/kwsekds/ka.github.io/assets/146935401/cedd5d62-dec7-48e2-8772-4e3908ed5110">
+<img width="250" alt="屏幕截图 2023-10-06 190432" src="https://githubfast.com/kwsekds/ka.github.io/assets/146935401/cedd5d62-dec7-48e2-8772-4e3908ed5110">
 
 
 
 
 
 >### **Github 1 & Markdown**
-<img width="250" alt="屏幕截图 2023-10-06 191109" src="https://github.com/kwsekds/ka.github.io/assets/146935401/98490ef2-c3dc-42eb-b87a-d1d0dcaeb0e2">
+<img width="250" alt="屏幕截图 2023-10-06 191109" src="https://githubfast.com/kwsekds/ka.github.io/assets/146935401/98490ef2-c3dc-42eb-b87a-d1d0dcaeb0e2">
 
 
 
